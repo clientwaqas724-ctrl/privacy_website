@@ -1,1 +1,6 @@
+Django
+requests
+reportlab
+openpyxl
+pandas
 
