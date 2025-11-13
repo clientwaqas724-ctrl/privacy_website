@@ -3,4 +3,4 @@ requests
 reportlab
 openpyxl
 pandas
-
+gunicorn>=21.2
